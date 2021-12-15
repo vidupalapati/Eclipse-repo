@@ -24,7 +24,7 @@ public class arrayDemo {
 		char letters[]= {'A','B','C'};
 		System.out.println(letters);
 		
-		// OR using for loop
+		// OR using for loop	ashdhsafghkasfgkasf
 		for(int i=0;i<3;i++)
 		{
 			point[i]=i+1 ;
